@@ -1,0 +1,36 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "MyApplication"
+    },
+    {
+      "name": "module_desc",
+      "value": "Alarm Clock Application"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Alarm Clock Main Ability"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Alarm Clock"
+    },
+    {
+      "name": "distributed_datasync_permission_reason",
+      "value": "Allow alarm data synchronization across devices"
+    },
+    {
+      "name": "notification_controller_permission_reason",
+      "value": "Allow app to show alarm notifications"
+    },
+    {
+      "name": "keep_background_running_permission_reason",
+      "value": "Allow app to run in background for alarm notifications"
+    },
+    {
+      "name": "running_lock_permission_reason",
+      "value": "Keep device awake for alarm notifications"
+    }
+  ]
+}
